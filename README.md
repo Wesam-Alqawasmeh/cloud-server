@@ -1,6 +1,6 @@
 # cloud-server
 
-- Simple API server.
+- Simple API server with two end points : `/`, `/index.html`.
 
 ---
 
@@ -13,3 +13,5 @@
 ## Links
 
 [Pull request](https://github.com/Wesam-Alqawasmeh/cloud-server/pull/1)
+
+[Deployed on Heroku](https://wesam-cloud-server.herokuapp.com/)
